@@ -16,3 +16,16 @@ This project demonstrates **real-time integration of embedded sensor systems** w
 
 > **University Project – Robotic Sensor Systems, Winter Semester 2024/25**  
 > Master's Program in Robotics Systems Engineering, RWTH Aachen University
+
+
+
+## 🔧 Features
+
+### Embedded System (ESP8266 with Arduino IDE)
+- Acquired real-time data from:
+  - **MPU6050**: Gyroscope, Accelerometer, Temperature sensor
+  - **Capacitive sensor**: Touch detection
+  - **Rotary Encoder**: Directional input
+  - **Infrared Sensor**: Proximity detection
+- Implemented signal filtering (e.g., moving average, threshold filters)
+- Established **Wi-Fi communication** using **MQTT protocol (Mosquitto broker)**
