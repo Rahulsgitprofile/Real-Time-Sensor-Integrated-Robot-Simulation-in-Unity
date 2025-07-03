@@ -29,8 +29,8 @@ The microcontroller collects and filters sensor data, then transmits it using MQ
   <img src="https://github.com/user-attachments/assets/92feb680-0b6d-47e0-a294-6d9b5874ac60" alt="Robot Movement" width="650" />
 </p>
 
-*Figure 1.* Robot walking and jumping in the demo scene.
-
+*Figure 1.* ESP and sensors setup.  
+*Figure 2.* Robot walking and jumping in the demo scene using ESP setup.
 
 ---
 
