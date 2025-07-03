@@ -9,17 +9,6 @@
 
 ---
 
-## 🧭 Overview
-
-This project connects physical sensors to a Unity game scene to control:
-- A robot character’s **movement**, **running**, and **jumping**
-- In-game **camera direction**
-- **Doors** opening and closing based on proximity detection
-- A **temperature display** updated in real-time
-
-The microcontroller collects and filters sensor data, then transmits it using MQTT, where Unity listens and acts accordingly. This allows seamless interaction between physical movements and game logic.
-
----
 ## 🎥 Media
 
 ### 🖼️ Screenshots
@@ -32,6 +21,17 @@ The microcontroller collects and filters sensor data, then transmits it using MQ
 *Figure 1.* ESP and sensors setup.  
 *Figure 2.* Robot walking and jumping in the demo scene using ESP setup.
 
+## 🧭 Overview
+
+This project connects physical sensors to a Unity game scene to control:
+- A robot character’s **movement**, **running**, and **jumping**
+- In-game **camera direction**
+- **Doors** opening and closing based on proximity detection
+- A **temperature display** updated in real-time
+
+The microcontroller collects and filters sensor data, then transmits it using MQTT, where Unity listens and acts accordingly. This allows seamless interaction between physical movements and game logic.
+
+---
 ---
 
 ## 🔌 Hardware Setup
