@@ -153,18 +153,12 @@ The microcontroller collects and filters sensor data, then transmits it using MQ
 
 ---
 
-## 🪪 License
-
-This project is open-source and licensed under the MIT License.
-
----
-
 ## 🛠️ Future Extensions
 
-- Multi-room IoT expansion with multiple ESP devices
+
 - Web dashboard for MQTT data monitoring
 - Haptic feedback / audio events in party mode
-- BLE support for mobile integration
+
 
 ---
 
