@@ -1,4 +1,4 @@
-# 🤖 RSS Sensor-Driven Unity Game Environment
+# 🤖 Sensor-Driven Unity Game Environment
 
 ![Unity](https://img.shields.io/badge/Engine-Unity_2022.3+-black?logo=unity)
 ![Arduino](https://img.shields.io/badge/Microcontroller-ESP8266-blue?logo=arduino)
