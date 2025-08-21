@@ -113,7 +113,7 @@ The microcontroller collects and filters sensor data, then transmits it using MQ
 
 ## ✨ Highlighted Features
 
-| Feature                        | Description                                                                 |
+| Feature                        | Description                                                                |
 |-------------------------------|-----------------------------------------------------------------------------|
 | 🔄 **MQTT Protocol**           | Real-time, efficient communication between ESP8266 and Unity                |
 | 🔀 **Toggle System**          | Switch between camera and movement control using onboard button             |
